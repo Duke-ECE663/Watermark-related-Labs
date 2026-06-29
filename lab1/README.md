@@ -1,6 +1,6 @@
-# Official Implementation of WEvade
+# Lab 1
 
-This code is the official implementation of our CCS'23 paper: Evading Watermark based Detection of AI-Generated Content [Paper](https://arxiv.org/abs/2305.03807).
+Evading Watermark based Detection of AI-Generated Content [Paper](https://arxiv.org/abs/2305.03807).
 
 ## Preparation
 
